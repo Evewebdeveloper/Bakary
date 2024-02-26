@@ -1,0 +1,321 @@
+*{padding:0; margin:0;}
+
+
+.navbar {
+    background-image: url('images/drew-coffman-1872.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+.navbar__logo img {
+    width: 176.48;
+    height: 48;
+    margin: 24 0 0;
+    padding: 0 0 0 40;
+}
+
+.navbar__items {
+    float: right;
+    color: #ffffff;
+
+}
+
+.navbar .navbar__items .item1,
+.navbar .navbar__items .item2,
+.navbar .navbar__items .item3,
+.navbar .navbar__items .item4,
+.navbar .navbar__items .item5,
+.navbar .navbar__items .item6 {
+    float: left;
+    padding:20px;
+    list-style: none;
+}
+.navbar .navbar__items .item1 a,
+.navbar .navbar__items .item2 a,
+.navbar .navbar__items .item3 a,
+.navbar .navbar__items .item4 a,
+.navbar .navbar__items .item5 a,
+.navbar .navbar__items .item6 a{
+    color: #ffffff;
+text-decoration: none;
+
+}
+
+
+.fl3 h5 {
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 22px;
+    color: #ffffff;
+    padding: 110 300 0 300;
+    margin: 0 0 18;
+    font-weight: lighter;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.fl3 h2 {
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 34px;
+    color: #ffffff;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.fl3 p {
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 24px;
+    color: #ffffff;
+    margin: 10 0 20;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.fl4 {
+    text-align: center;
+}
+
+.btn1 {
+    height: 60px;
+    width: 140px;
+    font-size: 14px;
+    background-color: #8E7754;
+    padding: 15px 28px;
+    margin: 0 0 12;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn1:hover {
+    background-color: #ffffff;
+    color: black;
+
+}
+
+.btn2 {
+    height: 60px;
+    width: 140px;
+    color: #ffffff;
+    background-color: transparent;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: #ffffff;
+    padding: 15px 28px;
+    margin: 0px 0px 12px;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.btn3 {
+    height: 50px;
+    width: 35px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: transparent;
+    margin: 20 50 20 50;
+}
+
+.second-layer {
+    background-color: #ffffff;
+    margin: 0px -15px;
+    padding: 90px 67.6px 60px 67.4px;
+  
+}
+.sl1 img {
+    width: 35%;
+    padding: 15px 0px 15px 56px;
+    margin: 0px 0px 2px;
+    float: left;
+}
+.icons{
+    list-style: none;
+
+}
+
+.sl2 {
+   
+    width: 40%;
+    float: right;
+    color: #686868;
+    font-size: 17px;
+    padding: 15px 0px 15px 56px;
+    margin: 0px 0px 2px;}
+.sl2 img {
+    width: 4%;}
+.sl2 p {
+    width: 368.4;
+    height: 158.06;
+    color: #686868;
+    font-size: 17px;}
+.clear {clear: left;}
+
+.third-layer {
+    padding: 90px 67.6px 60px 67.4px;
+    margin: 0 -15px;
+}
+
+.tl1 {
+    width: 35%;
+    color: #686868;
+    font-size: 17px;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding: 90px 67.6px 60px 67.4px;
+    margin: 0 -15px;
+    float: left;
+}
+
+.tl2 img {
+width: 40%;
+    float: left;
+    padding: 90px 67.6px 60px 67.4px;
+    margin: 0 -15px;
+
+}
+.forth-layer{
+width: 100%;
+ display: inline-block;
+    text-align: center;
+}
+
+.forth-layer h3{
+
+    color: #303030;
+    font-size: 30px;
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align: center;
+    margin: 17px 40px 20px ;
+    padding: 70px 67.6px 60px 67.4px;
+}
+.forth-layer p{
+
+    font-size: 17px;
+    margin-bottom: 50px;
+    width: 100%;
+    display: inline-block;
+    color: #888888;
+    text-align: center;
+
+
+
+}
+
+.fol2{
+    float: left;
+    color: #686868;
+    font-size: 17px;
+    width:33.33%;
+    height: 434.79px;
+    text-align: center;
+ 
+}
+.fol2 h4{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.fol2 img{
+    width: 241.66px;
+    height: 201.38px;
+}
+.fol2 p{
+    width: 241.66px;
+    height: 158.6px;
+    color: #686868;
+    font-size: 17px;
+    font-family: 'Alegreya Sans', sans-serif;
+text-align: center;
+  
+}
+
+
+.fol3{
+    float: left;
+    color: #686868;
+    font-size: 17px;
+    width:33.3%;
+    height: 434.79px;
+    text-align: center;
+}
+.fol3 img{
+    width: 241.66px;
+    height: 201.38px;
+}
+.fol3 p{
+    width: 241.66px;
+    height: 158.6px;
+    color: #686868;
+    font-size: 17px;
+    font-family: 'Alegreya Sans', sans-serif;
+  
+}
+.fol3 h4{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.fol4 {
+    float: left;
+    color: #686868;
+    font-size: 17px;
+    width:33.3%;
+    height: 434.79px;
+    text-align: center;
+}
+.fol4 img{
+    width: 241.66px;
+    height: 201.38px;
+}
+.fol4 p{
+width: 241.66px;
+    height: 158.6px;
+    color: #686868;
+    font-size: 17px;
+    font-family: 'Alegreya Sans', sans-serif;
+ 
+}
+
+
+.fol4 h4{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.clear{
+    clear: left;
+}
+.Contact_container{
+margin-left: 5%;
+margin-top: 5%;
+}
+.Contact_context p{
+    margin-top: 1%;
+line-height: 25px;
+}
+.contact_icons{
+    margin-top: 50px;
+    width: 50%;
+float: left;
+}
+.contact_icon1{
+    list-style: none;
+}
+.contact_icon1 img{
+    width: 2%;
+}
+.map img {float: left;
+
+margin-bottom: 70px;
+width: 40%;
+}
+.clearmap{clear: both;}
+.footer{
+    width: 100%;
+    height: 100%;
+    background-color:#403d38;
+}
